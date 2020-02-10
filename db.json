@@ -1,4 +1,4 @@
 {
-  "q1": [[{ time: "str", response: { key: "value" }, timing: [0, 3333] }] }],
-  "q2": [[{ time: "str", response: { key: "value" }, timing: [0, 3333] }] }],
+  "q1": [[{ "timestamp": "str", "response": { "key": "value" }, "timing": [0, 3333] }] }],
+  "q2": [[{ "timestamp": "str", "response": { "key": "value" }, "timing": [0, 3333] }] }],
 }
